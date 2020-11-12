@@ -4,6 +4,7 @@ from random import choice
 from threading import Thread
 import re
 init()
+#Codded By @404.erroz
 urlig="https://www.instagram.com/accounts/account_recovery_send_ajax/"
 hig = {
 'UserAgent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36',
